@@ -1,0 +1,53 @@
+{
+
+// version for updating, if there is an update, need to change more numbers than before
+
+"Version":"1.1",
+
+//link for server update
+
+"Url":"https://github.com/Kokoaung1/Kokoaung1/4b067bd2e2d61b89daa8069941a1860c5f45c6c0/Dtacnew.zip" ,
+
+"Changelog":"
+
+Latest update 02/06/2023
+
+TRUE No Pro
+
+DTAC No Pro
+
+Edit the TRUE file.
+
+Edit DTAC files
+
+Add function to page load
+
+",
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+// don't mess with the bottom
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+ "-Demo"
+
+  ]
+
+}
